@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormInterface", "FormInterface\FormInterface.csproj", "{A64A1BD7-4FF3-4323-88A6-A61777F50A76}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EmguDLL", "EmguDLL", "{7F70B06E-F4E4-485D-954B-ABAE38BA756B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detect", "Detect\Detect.csproj", "{FCB16D7F-5326-4F5F-919B-E11D4843AB62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64A1BD7-4FF3-4323-88A6-A61777F50A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64A1BD7-4FF3-4323-88A6-A61777F50A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64A1BD7-4FF3-4323-88A6-A61777F50A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64A1BD7-4FF3-4323-88A6-A61777F50A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB16D7F-5326-4F5F-919B-E11D4843AB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB16D7F-5326-4F5F-919B-E11D4843AB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB16D7F-5326-4F5F-919B-E11D4843AB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB16D7F-5326-4F5F-919B-E11D4843AB62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
