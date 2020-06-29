@@ -1,4 +1,4 @@
-# of-dbscan-object-detection
+# Example Object Detection by Optical Flows and DBSCAN 
 
 This is source code of my blog post talks about hybrid algorithm that detects objects in stable videos. It is a combination of Optical Flows and DBSCAN algorithms. 
 
